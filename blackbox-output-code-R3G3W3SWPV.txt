@@ -1,0 +1,4 @@
+npx create-next-app travel-tour-app --typescript
+cd travel-tour-app
+npm install framer-motion axios react-hook-form tailwindcss @heroicons/react
+npm install express mongoose jsonwebtoken bcryptjs cors
